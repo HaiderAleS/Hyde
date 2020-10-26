@@ -2,3 +2,5 @@
 
 <p align='center'>
 <a href="https://www.instagram.com/haiderales/"><img height="30" src="https://github.com/HaiderAleS/Hyde/blob/main/Assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/haiderales"><img height="30" src="https://github.com/HaiderAleS/Hyde/blob/main/Assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+</p>
